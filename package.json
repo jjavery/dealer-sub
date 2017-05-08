@@ -1,0 +1,15 @@
+{
+  "name": "dealer-sub",
+  "version": "0.1.0",
+  "description": "Dealer-subscriber",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "James P. Javery",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
